@@ -1,6 +1,6 @@
 
-#Walters Mandler (react edition)
-#####Your go-to chocolate recipe generator
+# Walters Mandler (react edition)
+##### Your go-to chocolate recipe generator
 
 A friendly chocolate recipe generator that experiments with barely appropriate flavor combinations. 
 Originally a single-file html (read more under archive/README.md).
