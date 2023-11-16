@@ -9,4 +9,4 @@ export default class Chocolatebar extends React.Component {
         return <p>{this.renderRecipeText()}</p>
     }
 
-}
+} 

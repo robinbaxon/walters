@@ -1,6 +1,21 @@
 export default function getIngredients() {
     return ["Mandler", "Dadler", "Pekannøtter",
             "Paranøtter", "Valnøtter", "Hasselnøtter",
+            "Cashewnøtter", "Pistasjnøtter", "Peanøtter",
+            "Makadamianøtter", "Kokosnøtter", "Peanøttsmør",
             "Einebær", "Tyttebær", "Havregryn",
-            "Sardiner", "Riskorn", "Nachos"];
+            "Hvetekim", "Hvetekli", "Hvetemel",
+            "Rugmel", "Byggmel", "Havremel",
+            "Sammalt hvete", "Sammalt rug", "Sammalt bygg",
+            "Sammalt havre", "Sammalt spelt", "Sammalt dinkel",
+            "Sammalt emmer", "Sammalt durumhvete", "Sammalt kamut",
+            "Sardiner", "Riskorn", "Nachos",
+            "Taco", "Tortilla", "Knekkebrød",
+            "Rugbrød", "Havrebrød", "Speltbrød",
+            "Dinkelbrød", "Emmerbrød", "Durumhvetebrød",
+            "Kamutbrød", "Rugknekkebrød", "Havreknekkebrød",
+            "Appelsin", "Sitron", "Lime",
+            "Mango", "Ananas", "Klementin",
+            "Helsekost", "Kjøttkaker", "Kjøttboller",
+            "Julekaker", "Julebrød", "Juleøl","];
 }
