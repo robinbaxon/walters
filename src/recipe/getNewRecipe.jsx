@@ -1,6 +1,6 @@
-import getAdjectives from "./getAdjectives";
-import getIngredients from "./getIngredients";
-import getAromas from "./getAromas";
+import getAdjectives from "./getAdjectives.jsx";
+import getIngredients from "./getIngredients.jsx";
+import getAromas from "./getAromas.jsx";
 export default function getNewRecipe() {
     const adjectives = getAdjectives();
     const ingredients = getIngredients();

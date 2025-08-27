@@ -1,9 +1,9 @@
 import React from 'react';
 import './App.css';
-import Chocolatebar from "./components/chocolateBar/chocolatebar";
-import RecipeButton from "./components/recipeButton/recipeButton";
-import SpinningImage from "./components/spinningImage/spinningImage";
-import getNewRecipe from "./recipe/getNewRecipe";
+import Chocolatebar from "./components/chocolateBar/chocolatebar.jsx";
+import RecipeButton from "./components/recipeButton/recipeButton.jsx";
+import SpinningImage from "./components/spinningImage/spinningImage.jsx";
+import getNewRecipe from "./recipe/getNewRecipe.jsx";
 
 export default class App extends React.Component{
     constructor(props){
@@ -27,8 +27,4 @@ export default class App extends React.Component{
             </div>
         );
     };
-
-
-
-
 }
